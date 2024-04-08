@@ -1,2 +1,2 @@
-# code-learner-_demo
- This is my  first Git repository 
+# codelearner_demo
+ This is my  first Git repository. 
